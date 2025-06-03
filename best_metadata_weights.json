@@ -1,0 +1,9 @@
+{
+    "has_exif": 0.0,
+    "has_camera_info": 0.0,
+    "suspicious_software": 0.0,
+    "low_dpi": 0.1,
+    "weird_size": 0.0,
+    "has_icc": 0.0,
+    "suspicious_quant": 0.0
+}

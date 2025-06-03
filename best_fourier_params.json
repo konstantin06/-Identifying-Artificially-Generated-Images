@@ -1,0 +1,8 @@
+{
+    "low_cut": 20,
+    "high_cut": 40,
+    "logmode": true,
+    "min_val": 0.1,
+    "max_val": 0.7,
+    "AUC": 0.8038690476190476
+}

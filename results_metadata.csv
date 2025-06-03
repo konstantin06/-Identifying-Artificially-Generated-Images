@@ -1,0 +1,300 @@
+filename,label,prob_fake
+00000000.jpg,real_net,0.1000
+00000001.jpg,real_net,0.1000
+00000002.jpg,real_net,0.1000
+00000003.jpg,real_net,0.1000
+00000004.jpg,real_net,0.1000
+00000005.jpg,real_net,0.1000
+00000006.jpg,real_net,0.1000
+00000007.jpg,real_net,0.1000
+00000008.jpg,real_net,0.1000
+00000009.jpg,real_net,0.1000
+00000010.jpg,real_net,0.1000
+00000011.jpg,real_net,0.1000
+00000012.jpg,real_net,0.1000
+00000013.jpg,real_net,0.1000
+00000014.jpg,real_net,0.1000
+00000015.jpg,real_net,0.1000
+00000016.jpg,real_net,0.1000
+00000017.jpg,real_net,0.1000
+00000018.jpg,real_net,0.1000
+00000019.jpg,real_net,0.1000
+00000020.jpg,real_net,0.1000
+00000021.jpg,real_net,0.1000
+00000022.jpg,real_net,0.1000
+00000023.jpg,real_net,0.1000
+00000024.jpg,real_net,0.1000
+00000025.jpg,real_net,0.1000
+00000026.jpg,real_net,0.1000
+00000027.jpg,real_net,0.1000
+00000028.jpg,real_net,0.1000
+00000029.jpg,real_net,0.1000
+00000030.jpg,real_net,0.1000
+00000031.jpg,real_net,0.1000
+00000032.jpg,real_net,0.1000
+00011.jpg,real_net,0.1000
+00042.jpg,real_net,0.1000
+00073.jpg,real_net,0.1000
+00092.jpg,real_net,0.1000
+00202.jpg,real_net,0.1000
+00328.jpg,real_net,0.1000
+00371.jpg,real_net,0.1000
+00407.jpg,real_net,0.1000
+00488.jpg,real_net,0.1000
+00500.jpg,real_net,0.1000
+00584.jpg,real_net,0.1000
+00655.jpg,real_net,0.1000
+00700.jpg,real_net,0.1000
+00738.jpg,real_net,0.1000
+00766.jpg,real_net,0.1000
+00810.jpg,real_net,0.1000
+00811.jpg,real_net,0.1000
+00828.jpg,real_net,0.1000
+00TN6MYLOE.jpg,fake,0.1000
+01HUIAWIOM.jpg,fake,0.1000
+02P5FJ8I1D.jpg,fake,0.1000
+06930e29-48c1-41f6-a66a-c730f24415b7.JPG,real_phone,0.1000
+0AIFZB4IE6.jpg,fake,0.1000
+0B925CPFSK.jpg,fake,0.1000
+0BS5GRC7YP.jpg,fake,0.1000
+0BZOEP0EQ4.jpg,fake,0.1000
+0DXBAMP4TE.jpg,fake,0.1000
+0E6C4CP8X0.jpg,fake,0.1000
+0HSKZ89627.jpg,fake,0.1000
+0JPZKGZDQK.jpg,fake,0.1000
+0KT98O0HOS.jpg,fake,0.1000
+0KYFZGOY26.jpg,fake,0.1000
+0LM79N6W8B.jpg,fake,0.1000
+0M182T83K2.jpg,fake,0.1000
+0M2QNY7J6Q.jpg,fake,0.1000
+0MX72QMVFT.jpg,fake,0.1000
+0NZVBZ17MN.jpg,fake,0.1000
+0PH3QLS8XO.jpg,fake,0.1000
+0Q0S6UMK25.jpg,fake,0.1000
+0Q78XPW89C.jpg,fake,0.1000
+0QPXAZEY3U.jpg,fake,0.1000
+0QQ9I88W13.jpg,fake,0.1000
+0R7QY7MIHF.jpg,fake,0.1000
+0S626C68TC.jpg,fake,0.1000
+0TJX811FP4.jpg,fake,0.1000
+0TKVZVUQRH.jpg,fake,0.1000
+0UHN1BZZ9B.jpg,fake,0.1000
+0VQ7FFO5H6.jpg,fake,0.1000
+0WJ7J3TE3R.jpg,fake,0.1000
+0WO53Z9WD6.jpg,fake,0.1000
+0X1XXD9KT8.jpg,fake,0.1000
+0X8NHE29YW.jpg,fake,0.1000
+0XZKPRKBFW.jpg,fake,0.1000
+0YJG9QBYQZ.jpg,fake,0.1000
+0ZBVK6CPXQ.jpg,fake,0.1000
+0ZDLJ4V0MO.jpg,fake,0.1000
+0ZE2Z2SWFG.jpg,fake,0.1000
+1AAUUDKQCZ.jpg,fake,0.1000
+1AS5B6OS9I.jpg,fake,0.1000
+1AUWG7MBSU.jpg,fake,0.1000
+1D34V9HIOQ.jpg,fake,0.1000
+1DS7DCO11X.jpg,fake,0.1000
+1DSWRV3Y1T.jpg,fake,0.1000
+1EBLEY1SNO.jpg,fake,0.1000
+1ED43P45ZN.jpg,fake,0.1000
+1ERG2MMKJL.jpg,fake,0.1000
+1IB5RNN6VN.jpg,fake,0.1000
+1IKDD8WRGZ.jpg,fake,0.1000
+1JFEON2M1O.jpg,fake,0.1000
+1JX8KWGZAP.jpg,fake,0.1000
+1K97Y0YQ64.jpg,fake,0.1000
+1NB96O4O6C.jpg,fake,0.1000
+1NPH9Z2ETN.jpg,fake,0.1000
+1PACL3R1PT.jpg,fake,0.1000
+1RTR12VZAW.jpg,fake,0.1000
+1TD4QDEGF0.jpg,fake,0.1000
+1UD1AIGDPE.jpg,fake,0.1000
+1USM9N17CA.jpg,fake,0.1000
+1VPXL6HURE.jpg,fake,0.1000
+1VRSCM1PIL.jpg,fake,0.1000
+1W81B4KT9Y.jpg,fake,0.1000
+1WOL23E95G.jpg,fake,0.1000
+1XC0MTLX3I.jpg,fake,0.1000
+1XCPUUXRI2.jpg,fake,0.1000
+1XN1DHIXWJ.jpg,fake,0.1000
+1XVS78YYM8.jpg,fake,0.1000
+1Y0XLSKB50.jpg,fake,0.1000
+1Y8FL1BC4U.jpg,fake,0.1000
+1ZSU92OAB2.jpg,fake,0.1000
+2761052740a211f08ed00a25b6f76f63_1.jpg,fake,0.1000
+2BA62TT0TO.jpg,fake,0.1000
+2CFM7X9TDE.jpg,fake,0.1000
+2CQE1956CG.jpg,fake,0.1000
+2D3KAX2H0K.jpg,fake,0.1000
+2D3TH1I9JX.jpg,fake,0.1000
+2DG8I6HS6R.jpg,fake,0.1000
+2GMNDUA2N6.jpg,fake,0.1000
+2GZK9EFXFN.jpg,fake,0.1000
+2HXHHQA7ML.jpg,fake,0.1000
+2I44AE50IR.jpg,fake,0.1000
+2JECXS3T39.jpg,fake,0.1000
+2KTBX8E409.jpg,fake,0.1000
+2M8KM2C0VZ.jpg,fake,0.1000
+2O6C0UY6BB.jpg,fake,0.1000
+2OQ8DA9MU3.jpg,fake,0.1000
+2OZ0XFJHK1.jpg,fake,0.1000
+2QTKQJQ8W3.jpg,fake,0.1000
+2R7FXFG3LT.jpg,fake,0.1000
+2R7ODDKKYH.jpg,fake,0.1000
+2RGATBNW2E.jpg,fake,0.1000
+2RQ5167O09.jpg,fake,0.1000
+2S3FBN0G54.jpg,fake,0.1000
+2SNBN15T9O.jpg,fake,0.1000
+2T13E2DYNX.jpg,fake,0.1000
+2TQUI1C1IF.jpg,fake,0.1000
+2WGL52JQFW.jpg,fake,0.1000
+352b305640a211f0822a12e0f91208af_1.jpg,fake,0.1000
+43467911-11a996dc.jpg,real_net,0.0000
+43467913-4b4cedfc.jpg,real_net,0.0000
+43467915-e417cd84.jpg,real_net,0.0000
+43467918-188d09e2.jpg,real_net,0.0000
+44126006-add236e8.jpg,real_net,0.0000
+44126010-66c4eb15.jpg,real_net,0.0000
+44126012-a9b198ea.jpg,real_net,0.0000
+44126026-b7ebc4e3.jpg,real_net,0.0000
+44126028-4c0c846a.jpg,real_net,0.0000
+44126809-7fb87dc5.jpg,real_net,0.0000
+44725497-eb5404cc.jpg,real_net,0.0000
+44725500-c499c491.jpg,real_net,0.0000
+IMG_0144.JPG,real_phone,0.1000
+IMG_0174.JPG,real_phone,0.1000
+IMG_0309.JPG,real_phone,0.1000
+IMG_3094.JPG,real_phone,0.1000
+IMG_3101.JPG,real_phone,0.1000
+IMG_6209.JPG,real_phone,0.0000
+IMG_6210.JPG,real_phone,0.0000
+IMG_6211.JPG,real_phone,0.0000
+IMG_6212.JPG,real_phone,0.0000
+IMG_6213.JPG,real_phone,0.0000
+IMG_6214.JPG,real_phone,0.0000
+IMG_6215.JPG,real_phone,0.0000
+IMG_6216.JPG,real_phone,0.0000
+IMG_6217.JPG,real_phone,0.0000
+IMG_6218.JPG,real_phone,0.0000
+IMG_6219.JPG,real_phone,0.0000
+IMG_6220.JPG,real_phone,0.0000
+IMG_6221.JPG,real_phone,0.0000
+IMG_6222.JPG,real_phone,0.0000
+IMG_6223.JPG,real_phone,0.0000
+IMG_6224.JPG,real_phone,0.0000
+IMG_6227.JPG,real_phone,0.0000
+IMG_6229.JPG,real_phone,0.0000
+IMG_6230.JPG,real_phone,0.0000
+IMG_6231.JPG,real_phone,0.0000
+IMG_6232.JPG,real_phone,0.0000
+IMG_6233.JPG,real_phone,0.1000
+IMG_6234.JPG,real_phone,0.0000
+IMG_6235.JPG,real_phone,0.0000
+IMG_6236.JPG,real_phone,0.0000
+IMG_6237.JPG,real_phone,0.0000
+IMG_6238.JPG,real_phone,0.0000
+IMG_6239.JPG,real_phone,0.0000
+IMG_6240.JPG,real_phone,0.0000
+IMG_6241.JPG,real_phone,0.0000
+IMG_6242.JPG,real_phone,0.0000
+IMG_6247.JPG,real_phone,0.1000
+IMG_6255.JPG,real_phone,0.1000
+IMG_6263.JPG,real_phone,0.0000
+IMG_6264.JPG,real_phone,0.0000
+IMG_6265.JPG,real_phone,0.0000
+IMG_6266.JPG,real_phone,0.0000
+IMG_8251.JPG,real_phone,0.0000
+IMG_8252.JPG,real_phone,0.0000
+IMG_8253.JPG,real_phone,0.0000
+IMG_8254.JPG,real_phone,0.0000
+IMG_8255.JPG,real_phone,0.0000
+IMG_8256.JPG,real_phone,0.0000
+IMG_8257.JPG,real_phone,0.0000
+IMG_8258.JPG,real_phone,0.0000
+IMG_8259.JPG,real_phone,0.0000
+IMG_8260.JPG,real_phone,0.0000
+IMG_8261.JPG,real_phone,0.0000
+IMG_8262.JPG,real_phone,0.0000
+IMG_8263.JPG,real_phone,0.0000
+IMG_8264.JPG,real_phone,0.0000
+IMG_8265.JPG,real_phone,0.0000
+IMG_8266.JPG,real_phone,0.0000
+IMG_8267.JPG,real_phone,0.0000
+IMG_8268.JPG,real_phone,0.0000
+IMG_8269.JPG,real_phone,0.0000
+IMG_8270.JPG,real_phone,0.0000
+IMG_8271.JPG,real_phone,0.0000
+IMG_8272.JPG,real_phone,0.0000
+IMG_8273.JPG,real_phone,0.0000
+IMG_8274.JPG,real_phone,0.0000
+IMG_8275.JPG,real_phone,0.0000
+IMG_8276.JPG,real_phone,0.0000
+IMG_8277.JPG,real_phone,0.0000
+IMG_8278.JPG,real_phone,0.0000
+IMG_8279.JPG,real_phone,0.0000
+IMG_8280.JPG,real_phone,0.0000
+IMG_8281.JPG,real_phone,0.0000
+IMG_8282.JPG,real_phone,0.0000
+IMG_8283.JPG,real_phone,0.0000
+IMG_8284.JPG,real_phone,0.0000
+IMG_9567.JPG,real_phone,0.1000
+IMG_9640.JPG,real_phone,0.1000
+IMG_9802.JPG,real_phone,0.1000
+IMG_9882.JPG,real_phone,0.1000
+IMG_9890.JPG,real_phone,0.1000
+RVPP0397.JPG,real_phone,0.1000
+a6uhvq7obp.jpg,fake,0.1000
+car3.jpg,real_net,0.1000
+dfcb547d40a111f080dee68596074aae_1.jpg,fake,0.1000
+gen1200 (1).jpg,real_net,0.1000
+gen1200 (10).jpg,real_net,0.1000
+gen1200 (11).jpg,real_net,0.1000
+gen1200 (12).jpg,real_net,0.1000
+gen1200 (13).jpg,real_net,0.1000
+gen1200 (14).jpg,real_net,0.1000
+gen1200 (15).jpg,real_net,0.1000
+gen1200 (16).jpg,real_net,0.1000
+gen1200 (17).jpg,real_net,0.1000
+gen1200 (18).jpg,real_net,0.1000
+gen1200 (19).jpg,real_net,0.1000
+gen1200 (2).jpg,real_net,0.1000
+gen1200 (20).jpg,real_net,0.1000
+gen1200 (21).jpg,real_net,0.1000
+gen1200 (22).jpg,real_net,0.1000
+gen1200 (23).jpg,real_net,0.1000
+gen1200 (24).jpg,real_net,0.1000
+gen1200 (25).jpg,real_net,0.1000
+gen1200 (26).jpg,real_net,0.1000
+gen1200 (27).jpg,real_net,0.1000
+gen1200 (28).jpg,real_net,0.1000
+gen1200 (29).jpg,real_net,0.1000
+gen1200 (3).jpg,real_net,0.1000
+gen1200 (30).jpg,real_net,0.1000
+gen1200 (4).jpg,real_net,0.1000
+gen1200 (5).jpg,real_net,0.1000
+gen1200 (6).jpg,real_net,0.1000
+gen1200 (7).jpg,real_net,0.1000
+gen1200 (8).jpg,real_net,0.1000
+gen1200 (9).jpg,real_net,0.1000
+gen1200.jpg,real_net,0.1000
+kZ-QCeMs-QI.jpg,fake,0.1000
+og_og_1677597664255790434.jpg,fake,0.1000
+og_og_170352635324392007.jpg,fake,0.1000
+peizazh-priroda-vid-tsifrovoe-iskusstvo-ii-art-neiroset-i-15.jpg,fake,0.1000
+photo_2025-05-26_15-00-21.jpg,real_phone,0.1000
+photo_2025-05-26_15-00-26.jpg,real_phone,0.1000
+photo_2025-05-26_15-00-31.jpg,real_phone,0.1000
+photo_2025-05-26_15-00-35.jpg,real_phone,0.1000
+photo_2025-05-26_15-00-39.jpg,real_phone,0.1000
+photo_2025-05-26_15-00-42.jpg,real_phone,0.1000
+photo_2025-05-26_15-00-45.jpg,real_phone,0.1000
+photo_2025-05-26_15-00-49.jpg,real_phone,0.1000
+photo_2025-05-26_15-00-53.jpg,real_phone,0.1000
+photo_2025-05-26_15-00-56.jpg,real_phone,0.1000
+photo_2025-05-26_15-00-59.jpg,real_phone,0.1000
+photo_2025-05-26_15-01-02.jpg,real_phone,0.1000
+photo_2025-05-26_15-01-05.jpg,real_phone,0.1000
+photo_2025-05-26_15-01-08.jpg,real_phone,0.1000
+scale_1200 (1).jpg,fake,0.1000
+scale_1200 (2).jpg,fake,0.1000
+scale_1200.jpg,fake,0.1000

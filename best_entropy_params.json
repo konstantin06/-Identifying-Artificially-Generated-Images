@@ -1,0 +1,6 @@
+{
+    "tolerance": 0.15,
+    "radius": 5,
+    "min_size": 65,
+    "max_size": 115
+}
