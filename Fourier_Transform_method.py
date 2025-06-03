@@ -50,7 +50,7 @@ def analyze_fourier_raw(image_path, low_cutoff=20, high_cutoff=60, use_log=True)
     h, w = image.shape
     cy, cx = h // 2, w // 2
 
-    # Считаем сумму центральных (low) и периферийных (high) частот
+    
     Y, X = np.ogrid[:h, :w]
     dist = np.sqrt((X - cx)**2 + (Y - cy)**2)
 
